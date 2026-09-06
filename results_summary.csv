@@ -1,0 +1,11 @@
+metric,value
+n_low,16239.0
+n_high,16229.0
+delinquency_rate_low,0.2057
+delinquency_rate_high,0.1309
+chi2_statistic,324.962
+p_value_chi2,0.0
+mean_debt_ratio_low,0.421
+mean_debt_ratio_high,0.3182
+t_statistic,24.259
+p_value_ttest,0.0
